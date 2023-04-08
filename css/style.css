@@ -308,7 +308,7 @@ body {
   font-weight: bold;
 }
 #header {
-  height: 100px;
+  height: 200px;
   position: relative;
   border-bottom: 1px solid #ddd;
 }
@@ -560,6 +560,7 @@ a.article-title:hover {
   color: #555;
   padding: 0 20px;
   font-size: 18px;
+  text-align: justify;
 }
 .article-entry:before,
 .article-entry:after {
